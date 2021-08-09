@@ -6,7 +6,7 @@
 ## Imagens
 
 <p>
-  <img src="bin/img.PNG" width="500" title="preview">
+  <img src="bin/img.PNG" width="650" title="preview">
   
   </p>  <p>  
 
