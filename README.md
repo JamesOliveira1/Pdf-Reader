@@ -19,8 +19,8 @@ O objetivo era iniciar um meio para extrair texto de um pdf com um framework, pr
 ## Versões - Histórico
 
 * 0.0.1
-    * Criação da lógica
-
+    * Criação
+    * 
 ## 
 
 [https://github.com/JamesOliveira1](https://github.com/JamesOliveira1/)
